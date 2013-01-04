@@ -4,8 +4,8 @@ title: hello world
 
 # hello world
 
-'''ruby
+```ruby
 def f1
   print "Hello World\n"
 end
-'''
+```
