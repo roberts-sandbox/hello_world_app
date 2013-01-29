@@ -11,3 +11,8 @@ bye now
 
 hello
 
+êê
+
+ê
+
+Bye
