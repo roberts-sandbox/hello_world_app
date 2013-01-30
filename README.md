@@ -11,3 +11,5 @@ of the given structure evaluates to:
     
 
 ∑
+
+∑
