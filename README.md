@@ -9,3 +9,5 @@ of the given structure evaluates to:
 1 - 𝚺(1 - P)
     
     
+
+∑
