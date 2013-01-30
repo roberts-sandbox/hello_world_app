@@ -13,3 +13,8 @@ of the given structure evaluates to:
 ∑
 
 ∑
+
+Σ
+
+
+l
