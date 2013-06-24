@@ -68,3 +68,11 @@ hi
 𝚺
 
 there
+
+
+
+If you start an ordered list immediately following text:
+1. Like this
+2. The editor will provide list item 2
+3. And also every subsequent item
+4. But it won't render as a list when processed
